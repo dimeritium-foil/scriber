@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://raw.githubusercontent.com/dimeritium-foil/scriber/master/src/images/128.png />
+  <img src=https://raw.githubusercontent.com/dimeritium-foil/scriber/master/src/images/512.png style="width:25%;"/>
 </p>
 
 <p align="center">
