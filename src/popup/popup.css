@@ -1,0 +1,15 @@
+.button {
+    padding: 1rem 2rem;
+}
+
+.button-active {
+    background-color: green;
+}
+
+.text-visible {
+    visibility: visible !important;
+}
+
+.text {
+    visibility: hidden;
+}
